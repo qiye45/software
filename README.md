@@ -19,3 +19,4 @@
 ![image](https://github.com/qiye45/software/assets/138199658/4ff17bb2-7937-4f47-84fc-f65bee5999b8)
 
 # 网易云音乐歌词下载工具
+![image](https://github.com/qiye45/software/assets/138199658/f88cf1bb-55a7-4cfc-b029-99f43e3a35e7)
